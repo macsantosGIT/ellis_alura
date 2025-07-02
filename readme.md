@@ -100,9 +100,3 @@ Ex.: docker build -t api-imersao-alura .
  Depois de criar o docker-compose.yml
  utilizar o comando docker compose up
 ```
-
-palavra chave: MARVEL
-
-```
-
-```
